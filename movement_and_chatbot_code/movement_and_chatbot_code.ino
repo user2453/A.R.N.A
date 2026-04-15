@@ -11,7 +11,7 @@ const char* ssid     = "Aachi";
 const char* password = "gimmemahmoney";
 // NOTE: I've replaced your API key with a placeholder for security.
 // Ensure you use your actual, non-expired key here.
-const char* apiKey   = "AIzaSyBaNh-JzsI-tp9TCxgEXSAXFxQvtTrQduo"; 
+const char* apiKey   = "put in your api key here"; 
 
 // Free-access Gemini model:
 const char* geminiModel = "gemini-flash-latest";
